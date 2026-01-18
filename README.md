@@ -10,16 +10,16 @@ I’ve found a strong interest in **backend development** and I’m studying eve
 
 ## 💻 Tecnologias que estou aprendendo / Technologies I'm learning:
 
-- HTML5 & CSS3  
-- JavaScript (iniciando em breve!)  
+- PYTHON (INTERMEDIARIO)  
+- JAVA (iniciando em breve!)  
 - Git & GitHub  
-- Noções de backend
+- LÓGICA BACKEND
 
 ---
 
 ## 📚 Atualmente estudando / Currently studying:
 
-- Desenvolvimento Web com foco em backend  
+- Desenvolvimento de sistemas com foco em backend  
 - Estrutura de projetos, organização de código e boas práticas  
 - Inglês técnico
 
